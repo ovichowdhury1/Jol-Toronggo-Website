@@ -1,0 +1,29 @@
+<svg id="logo.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="324" height="62" viewBox="0 0 324 62">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 14px;
+        fill: #e1d5c7;
+        font-family: "Plus Jakarta Sans";
+      }
+
+      .cls-1, .cls-2 {
+        text-anchor: middle;
+        text-transform: uppercase;
+      }
+
+      .cls-2 {
+        font-size: 30px;
+        fill: #fff;
+        font-family: Bitter;
+      }
+
+      .cls-3 {
+        fill: #aa8453;
+      }
+    </style>
+  </defs>
+  <text id="Luxury_Hotel_Resort" data-name="Luxury Hotel &amp; Resort" class="cls-1" x="160.752" y="57.904">Luxury Hotel &amp; Resort</text>
+  <image id="line" y="12" width="324" height="50" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAAAyCAYAAAAk5qKuAAALYElEQVR4nO2dC5RVZRXH/zPDUwYmZ4YBDFgIA/IYTTKgEoPUVDSiMZxcpAaG6MIyVwKZhCsqyETNlZqRz0x7WRRpy7QwLHyAiT0ARQETCpKHAQISY0zrY/1O63g8586d4d5zvzvs31qs4d577nndu/93f9/e394lTU1NyoJOksZKOl3ScEmDJNVI6sBb35S0XdIGSasl/VnSUkkvZ7NzwzCMFuD0ZwxaNFRSf0nVkjqziwOStkp6SdLzkn6HHu1v7hDNCWJvSVdJmizpXa34xDZK+oWkByQ9a5+4YRitZISkT0mql9S3FbvYKeleSTdK+kfSRkmCWCbpS5KuCamuY7ek5yS9KGmHpP/yfFdJ75Y0UFJdyHMM8zdJN0j6oaS37FthGEYztJM0SdIMScfHbOo8wVWMRP8p6Q2ed/pVJWmwpJMkdQu9x41m50v6Rki//k+cIHaX9BNJH+bxfkTsHklPx+0kQntJ72V4PVHSiZHXNyGM3+WCDMMwwjiH6jKEsE/kNTcd9zOGwSslNTZz55w4fkDSFMS1E8//XtInJW3LJIjVbFjHYyeMMxGx1uJU+gJJ0xDbgLWSrpT0G/sqGIYBZ0m6WdJxoRviROt7ku5ndNpanLheL+l83u+8y1PDohgWRKekj7FBIwp9dw4/JTf0vpA5yUGh5xdzrH/ZN8Iwjlh6Srpd0sdDN+Al5vx+wFA3VzhvcSGj2cclnRGMfEtDB5iBGB6U1JBjMRQX5FR+mKTpIVWeQGS63mzBMI5I6tGAQAy3oRHD0IxciqGY/mtA605lFHyIwEM8BjXuIulaSV9L4VOpkPQVSZ9358Fz7tfgi1nMUxqGUfy4Uek3GTU6mhguz5W0K4WrmyPpq5L2MmrdHAjiAjzEvxKVSTMKfAreaC2P3ZzieZL2pHgOhmGkS7mkB5kzdKyTdLGkP6Z4Fu3ImjmBQO9MJ4gdJW2RdDTD118V4ItRzvzBBTx2JzkuGgEyDKNN4IKrj+B8iWDJZXhqaTMezfu3m8d0gvgRgimv4KUdLOAdvxKlLouLABmGUfR0J5BRx9TYDIbJhaIU7/RYF1xxD87kRB7MQgxdDs8QSQMiAZlccTOe4R5u2KPMNRqGUfxUYNN12Pi4PIlhKRo1JJR3mMRBtM9xZilLYtRMPmAlYWq3OmUNiroNb64yxxfzW5K6X2et4iLC44ZhFC/tseXh2Pbp2HouqUSTtqFRa9Cshc3oVKB9I92QeStubAVL86L0ZKKzloN8m2UyTuWnosbjWJqXS47Hta5mfnG6GYNhFC23YcPbmQrLh148gsd3J1NubjnxFSHtOiUh37kr2rfdCWITQZVjEg70FEtfXiMaszX0WjnL+tzk6Hu42FwyElF06UAXkaBpGEZx4RZk3CdpH0uCV+T47KtZ0reS5XnhDJUasmd6SFou6f0J+9gsqVcwD5i0pvgcxFDs8IbI63tIkXEu8OzDvKg43I07l5Uz36HMj2EYxUN/bLeRBOxci6Hjy0SJ49L1rkO7HKMiK2HCHNLAUsbY5QkbnRd5fFrMNv+hesQUosO5xkXAv8A53h1K4jYMw29KsNlybPixPJxtGeUJ56NFUcZGHk9M2I87xx2lTDxW4VpGiQ5R/5Sws6XMQdYmvH643EpNxTFcvGEY/jMZm30AG84HtWjP0oR9R+uw3h+zTQ0auMYJ4hM8eXbMhktwc38p6RZJn0k4aFCJtnPC67lgGhVyvp7n4xjpc0JCvTujeOmMrTqbvTSPVxGk1SRVw3bH/hYR7k8kZNOM4+8TLqhSS4HFZ0LzhS1lJBOW1QzB84WbEH2S+crr8ngcIz3OIjoo/v+o3fs2wdWS5kk6GW3JF1UEc0cdxvxkEDgeGGRp/xSxaW3FmfpQFe184m7sTdzsbnk+lpEOU0NHucTueZugGzZ6U57FUGjOixmCJc1Rjxg6DVwXFHfoS97OAapdb2zBDisQ1espEpFvOlOZZwE5kUbx0kvSC6HVSLtYXbDFPtOi5gpKag3KQ+muONyxZjGf2JIqOX1J1elAXvXGcIHY8RRr3UAW+d+z2GEpy16Gs8N9Obm85rmQfi9DKRlktIzSLDzsMhJWo5RTJSRMe3JFMz0XPWY7Io9DIu97Ac8iXHFpV+Rz3hNTkemNmLJxBxK+k9H9RWlKqfxUW6SEQO38FPOGj8Khe57MmGzqMfSjDUF/vMtDRW2iLQQuIsvbVZ34HEnXSTt3X+47ENIPZYhA54PBuOK7yYEsJuLEI1uSRCpMWYY0Kl9ZzHlNKLLzzkY0d7Zy3wcTVo75TiUe/6jDLPffUkYQIH6IqZeke1dK8vYt2KHb9vvBi3FNpkaQO1THr/WdRJs38PoAxt3T+DVweT3LUrroIUzU1nPMlSRkFhtdDyNnM5t2sBVZ5Gt2y6JAR9yx3JRFx8hzcR5naRbivZ+KyEHF4gVEBaP7j7I3xkOM8xobE0pK7c7Ci2jOi8x2P3Gea7bEXZPvVDJiHE0L4tnoSBqMpgFVE98rd/z1HLc/edRT0ZFV1F98W1pOUhvS9jRi+SwR5Ci7EM15KQRSgvOZzb8tXFQ+kjyN/BIV2Ddjkmk7xqRVZSNOhl+cgTPVC52Yl0WHvFxQhU5cnFApawU5kT+OO5/mGtWLwg8nslC6kbqJz6Z0ceKGLiIK/hDD+tYOQwzDSI8K5hHHM8V1booBs/aMdo/l/64gzV8itRjeQTaCWEhqaYvam3XUs8xTMIyiooQMlBmI0liyUrwkH0Vec8Ugyo71xgWeaWJoGEVHE7Z7DaPMZZE2xF7hq4fo5gGedpnjpGBclcV7DMPwmxtJtXqZZOg04g8twkdBLCEn6KOsOzynwH1eDMPIDW5E+muWaD4s6WO+jfp8FMRLCJm/RqNq735FDMNoNVU0pe9B6t4dPt1K3wTxaNzpKipTLPLgnAzDyC0u2vxzFlUM9GlxhW9BlVmI4VITQ8NosyzCxitDSfle4JOH6FY1bCJ3aTRlvgzDaJucTMTZJd33YUVPwfHJQ5yIGK4wMTSMNs+TLPCoyFDWP3V8EsQG/t5b4PMwDCMd7uEoDb7cb1+GzO1YjteFdqhWD88w2j69aP+5D0+x4IUsfPEQhyGGr2QQwy6UFDqJgo6GYfhLB4pNj8pQ7m4LNn8UGlBwfBHEPvxdm/D6FH5JnqHuolsTeXmK52cYRvZcjo0+h81uxobjCGy+jw/31xdBrOZvXCUKV3z2LppdD6bqzRJK+MxN+TwNw8jMXGxzCbY6CNu9C1uOEth8tQ/3NVoKvlBkKqDp+jP8iAnYV6mfdz7JnHNoYbDKk+swjCOZOmzydknTuQ8ur/g2PEBny39IuD+tLaKbU3zxEINM9Ti3uR89e9ey5CeozDyHNc6TUjxPwzCSmYRNzmGLMQydN/G4X8w7A5v3YrWKL4IYeHgjYkrrrwg1MXftC97H/3cwN1Gb4nkahpFMLTYZ1B+YEGoHcXZMq5EybF6+jPJ8EcRX8f7KYxoNXR26wRtDzaxcx/6eRdhkyjDaKjuxyU5c38N0PhRzhddGrnsCNr8aDSg4PiVm38rf+ZEwvWvkU0ODmKGhbloNlAZ/qgDnahjGO1mGTQaJ1o8zTP4gAdFwJ7wu2LpCtl9wfFrL7AI8y8ldWsJynqTeKX3wFEvomRDXWc0wjHQJcombGApvTDh6BdVuTqNz5ihfugv65CG+hQu9nhu1mq5/PULblFE6aDle46UmhobhDXuxyZpQU6lwTKAam16Dja/H5r1ptepjgdjuFI0MzyWuo//yAEoGHeDG27pnw/CPyZIWslrldey3MhIAXUyB2Ixd8NLG5657rh/0p+nSdRy/NJsoQb4g1DjfMAz/cI3hXa1D1wLETXG5PEOXOufqIN7HKM8vJP0PBF+iy+j6NS0AAAAASUVORK5CYII="/>
+  <text id="Glorio." class="cls-2" x="160.752" y="20.904">Glorio<tspan class="cls-3">.</tspan></text>
+</svg>
