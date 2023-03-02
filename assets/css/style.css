@@ -324,7 +324,7 @@ Declaration
   --clr-common-heading: #171717;
   --clr-common-text: #777777;
   --clr-common-placeholder: #ab9b87;
-  --clr-theme-1: #aa8453;
+  --clr-theme-1: #76B1C4;
   --clr-theme-2: #806139;
   --clr-theme-3: #808080;
   --clr-theme-4: #777777;
@@ -4332,7 +4332,7 @@ div.mean-container a.meanmenu-reveal {
   width: 50px;
   top: 40px;
   left: 115px;
-  background: #aa8453;
+  background: #76B1C4;
 }
 [dir=rtl] .glo-appointment-features-icon::after {
   left: 0;
@@ -7658,7 +7658,7 @@ p.g-calender a:hover {
   }
 }
 .glo-reservation-price .glo-btn {
-  background: #aa8453;
+  background: #76B1C4;
   border-radius: 10px;
 }
 .glo-reservation-price .glo-btn a {
@@ -8854,8 +8854,8 @@ p.g-calender a:hover {
   opacity: 0;
   visibility: hidden;
 }
-.tp-theme-color-btn.tp-color-settings-btn[data-color="#aa8453"] {
-  background-color: #aa8453;
+.tp-theme-color-btn.tp-color-settings-btn[data-color="#76B1C4"] {
+  background-color: #76B1C4;
 }
 .tp-theme-color-btn.tp-color-settings-btn[data-color="#be8b47"] {
   background-color: #be8b47;
